@@ -12,7 +12,7 @@ public class Test {
 
 	      ArrayList<String> integrantesEquipo1 = new ArrayList<String>();
 	      integrantesEquipo1.add("E1A1");
-	      integrantesEquipo1.add("E1A2");
+	      integrantesEquipo1.add("E1A2d");
 	      integrantesEquipo1.add("E1A3");
 	      
 	      ArrayList<String> integrantesEquipo2 = new ArrayList<String>();
